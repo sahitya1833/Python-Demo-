@@ -9,4 +9,6 @@ print(d.minute)
 print(d.second)
 print(d.microsecond)
 print(d.strftime("%d - %m - %y - %H:%M:%S"))
+print(d.min)
+print(d.max)
 
