@@ -1,5 +1,6 @@
 number = 5
-sum = 0
+term = []
 for i in range(1,number+1):
-    print(1/i)
+    value = 1/i
+    term.apend()
 
