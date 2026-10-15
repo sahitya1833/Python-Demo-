@@ -42,7 +42,7 @@ def student_info(**data):
 student_info(name='sahitya', city= "indore",work= "studnet")
 
 
-#return statemnet
+#return statement
 def add(a,b):
     return a+b
 result = add(10,20)
