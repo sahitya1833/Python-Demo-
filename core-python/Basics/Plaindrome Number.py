@@ -3,7 +3,7 @@ num = number
 reverse = 0
 while num > 0:
     r = num%10
-    reverse= reverse*10
+    reverse= reverse*10 + r
     num = num//10
 
 if reverse == num:
